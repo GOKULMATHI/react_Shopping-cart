@@ -1,0 +1,41 @@
+.div-main
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.424),rgba(0, 0, 0, 0.451)),url(https://media.istockphoto.com/id/1347626309/photo/latina-female-using-desktop-computer-with-clothing-online-web-store-to-choose-and-buy-clothes.jpg?b=1&s=170667a&w=0&k=20&c=4kUNbsgz6Qx2yGHGw_z3KI814Ekc8xHmrByZ-0VsALM=);
+    background-size: cover ;
+    min-height :100vh;
+    width :100%;
+}
+.div-main h1{
+    color: rgb(230, 232, 231);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 12%;
+    font-size: 4em;
+    font-weight: 900;
+    padding-top: 170px;
+}
+.div-main h2{
+    color: white;
+    margin-left: 20%;
+    font-size: 3em;
+    font-weight: 900;
+}
+.div-main p{
+    color: white;
+    margin-left: 12%;
+    font-size: 1.4em;
+}
+.div-main a{
+    text-decoration: none;
+    border: 2px solid white;
+    padding-inline: 30px;
+    padding-block: 10px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 12%;
+    font-size: 1em;
+}
+.div-main a:hover{
+    color: black;
+    background: white;
+    transition: 0.5s;
+}
